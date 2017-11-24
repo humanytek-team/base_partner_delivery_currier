@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [9.0.1.0.1] - 2017-11-24
+### added
+- Adds i18n es_MX
+
 ## [9.0.1.0.0] - 2017-11-23
 ### added
 - Adds field to model res.partner to enable a supplier as delivery currier.

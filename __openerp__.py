@@ -3,8 +3,8 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html)
 
 {
-    'name': '',
-    'version': '9.0.1.0.0',
+    'name': 'Enable partners as delivery currier',
+    'version': '9.0.1.0.1',
     'category': 'Sales',
     'author': 'Humanytek',
     'website': "http://www.humanytek.com",
