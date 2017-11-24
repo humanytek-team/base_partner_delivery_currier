@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [9.0.1.0.2] - 2017-11-24
+### added
+- Adds domain in field partner_id of view form of the model delivery.currier to filter only delivery companies.
+
 ## [9.0.1.0.1] - 2017-11-24
 ### added
 - Adds i18n es_MX
