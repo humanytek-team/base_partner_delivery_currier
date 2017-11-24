@@ -4,14 +4,15 @@
 
 {
     'name': 'Enable partners as delivery currier',
-    'version': '9.0.1.0.1',
+    'version': '9.0.1.0.2',
     'category': 'Sales',
     'author': 'Humanytek',
     'website': "http://www.humanytek.com",
     'license': 'AGPL-3',
-    'depends': ['base', ],
+    'depends': ['base', 'delivery'],
     'data': [
         'views/partner_delivery_currier_view.xml',
+        'views/delivery_carrier_view.xml',
     ],
     'installable': True,
     'auto_install': False
